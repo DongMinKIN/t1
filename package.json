@@ -1,0 +1,25 @@
+{
+  "name": "t1",
+  "version": "1.0.0",
+  "description": "n",
+  "main": "movie.js",
+  "scripts": {
+    "test": "node movie.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/KimDongMinn/t1.git"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "kimdongmin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.2"
+  }
+}
